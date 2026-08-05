@@ -10,9 +10,13 @@
 
 VPS World：[https://vpsworld.org/](https://vpsworld.org/)
 
+### 热门机场监测
+
+机场监测：[https://jichang.watch](https://jichang.watch/)
+
 ---
 
-[二猫云机场](https://01.2maoyunaff.cc/#/register?code=OFmPdWji)，成立于 2026 年初，是一家专注提供出海专线加速与流媒体解锁服务的网络加速品牌。采用企业级 IPLC / IEPL 专线，并结合智能负载均衡与三网入口优化，尽量保障国内用户连接海外节点的速度与稳定性，晚高峰也有更好的表现。和多种支付方式（USDT / 微信 / 支付宝）
+[二猫云机场](https://vip.ermaoaff.com/#/register?code=OFmPdWji)，成立于 2026 年初，是一家专注提供出海专线加速与流媒体解锁服务的网络加速品牌。采用企业级 IPLC / IEPL 专线，并结合智能负载均衡与三网入口优化，尽量保障国内用户连接海外节点的速度与稳定性，晚高峰也有更好的表现。和多种支付方式（USDT / 微信 / 支付宝）
 
 企业级 IEPL 专线，全程不限速，主流流媒体完整解锁，4K 即点即播，支持 8K 资源，全面支持 ChatGPT、Claude 等 AI 应用与开发工具访问，不限制同时在线设备数量。
 
@@ -28,7 +32,7 @@ VPS World：[https://vpsworld.org/](https://vpsworld.org/)
 
 ## 🌐 官方网站
 
-[https://01.2maoyunaff.cc/](https://01.2maoyunaff.cc/#/register?code=OFmPdWji)
+[https://vip.ermaoaff.com/](https://vip.ermaoaff.com/#/register?code=OFmPdWji)
 
 ## 🌍 节点地域
 
@@ -255,4 +259,4 @@ TG 群主｜博主｜测评站｜工具站
 
 二猫云机场同样定位于新一代专线机场，强调自研客户端、IEPL 专线、不限速和多设备使用。它适合追求便捷客户端体验、流媒体解锁和高带宽访问的用户。
 
-👉 官方网站：[https://01.2maoyunaff.cc/](https://01.2maoyunaff.cc/#/register?code=OFmPdWji)
+👉 官方网站：[https://vip.ermaoaff.com/](https://vip.ermaoaff.com/#/register?code=OFmPdWji)
